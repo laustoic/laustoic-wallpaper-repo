@@ -40,6 +40,11 @@ My YouTube channel: https://www.youtube.com/@laustoic
 | <img src="Wallpapers/wallhaven-zpqe9y.png" width="200"> | `wallhaven-zpqe9y.png` | [Wallhaven](https://wallhaven.cc/w/zpqe9y) |
 | <img src="Wallpapers/wallhaven-zy7eeg.png" width="200"> | `wallhaven-zy7eeg.png` | [Wallhaven](https://wallhaven.cc/w/zy7eeg) |
 | <img src="Wallpapers/wallhaven-zywgxy.jpg" width="200"> | `wallhaven-zywgxy.jpg` | [Wallhaven](https://wallhaven.cc/w/zywgxy) |
+| <img src="Wallpapers/wallhaven-d83lgl.jpg" width="200"> | `wallhaven-d83lgl.jpg` | [Wallhaven](https://wallhaven.cc/w/d83lgl) |
+| <img src="Wallpapers/wallhaven-mlz139.png" width="200"> | `wallhaven-mlz139.png` | [Wallhaven](https://wallhaven.cc/w/mlz139) |
+| <img src="Wallpapers/wallhaven-w5o6pq.jpg" width="200"> | `wallhaven-w5o6pq.jpg` | [Wallhaven](https://wallhaven.cc/w/w5o6pq) |
+
+
 
 ## Usage
 
