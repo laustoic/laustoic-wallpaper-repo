@@ -1,6 +1,6 @@
-# Laustoic Wallpaper Repo
+# Laustoic Wallpaper Repo ☕️
 
-This is my wallpaper collection, hope you enjoy!
+This is my wallpaper collection, hope you enjoy! ☕️
 
 ## Preview
 
