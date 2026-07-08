@@ -1,6 +1,6 @@
 # Laustoic Wallpaper Repo
 
-A personal wallpaper collection curated by [Laustoic](https://github.com/laustoic).
+This is my wallpaper collection, hope you enjoy!
 
 ## Preview
 
@@ -47,7 +47,7 @@ Clone the whole repository:
 git clone https://github.com/laustoic/laustoic-wallpaper-repo.git
 ```
 
-Or download individual wallpapers by right-clicking the desired image inside the `Wallpapers/` folder → "Save image as".
+Or download individual wallpapers by right-clicking the desired image inside the `Wallpapers/` folder → "Save image as". You can also download the ZIP file and extract the folder that contains the wallpapers.
 
 ## Credits
 
