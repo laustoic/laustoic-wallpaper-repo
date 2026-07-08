@@ -2,7 +2,7 @@
 
 This is my wallpaper collection, hope you enjoy! ☕️
 
-:yt: My YouTube channel: https://www.youtube.com/@laustoic
+My YouTube channel: https://www.youtube.com/@laustoic
 
 ## Preview
 
