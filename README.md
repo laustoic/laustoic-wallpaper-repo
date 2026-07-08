@@ -1,4 +1,4 @@
-# Laustoic Wallpaper Repo ☕️
+# Lau's Wallpaper Repo ☕️
 
 This is my wallpaper collection, hope you enjoy! ☕️
 
