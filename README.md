@@ -43,8 +43,15 @@ My YouTube channel: https://www.youtube.com/@laustoic
 | <img src="Wallpapers/wallhaven-d83lgl.jpg" width="200"> | `wallhaven-d83lgl.jpg` | [Wallhaven](https://wallhaven.cc/w/d83lgl) |
 | <img src="Wallpapers/wallhaven-mlz139.png" width="200"> | `wallhaven-mlz139.png` | [Wallhaven](https://wallhaven.cc/w/mlz139) |
 | <img src="Wallpapers/wallhaven-w5o6pq.jpg" width="200"> | `wallhaven-w5o6pq.jpg` | [Wallhaven](https://wallhaven.cc/w/w5o6pq) |
-
-
+| <img src="Wallpapers/wallhaven-5ym8p1.jpg" width="200"> | `wallhaven-5ym8p1.jpg` | [Wallhaven](https://wallhaven.cc/w/5ym8p1) |
+| <img src="Wallpapers/wallhaven-5ymj95.jpg" width="200"> | `wallhaven-5ymj95.jpg` | [Wallhaven](https://wallhaven.cc/w/5ymj95) |
+| <img src="Wallpapers/wallhaven-5ymp23.jpg" width="200"> | `wallhaven-5ymp23.jpg` | [Wallhaven](https://wallhaven.cc/w/5ymp23) |
+| <img src="Wallpapers/wallhaven-6ok5qx.jpg" width="200"> | `wallhaven-6ok5qx.jpg` | [Wallhaven](https://wallhaven.cc/w/6ok5qx) |
+| <img src="Wallpapers/wallhaven-8g9qg2.png" width="200"> | `wallhaven-8g9qg2.png` | [Wallhaven](https://wallhaven.cc/w/8g9qg2) |
+| <img src="Wallpapers/wallhaven-8gjxoy.png" width="200"> | `wallhaven-8gjxoy.png` | [Wallhaven](https://wallhaven.cc/w/8gjxoy) |
+| <img src="Wallpapers/wallhaven-d8ojdm.jpg" width="200"> | `wallhaven-d8ojdm.jpg` | [Wallhaven](https://wallhaven.cc/w/d8ojdm) |
+| <img src="Wallpapers/wallhaven-qrmkqq.jpg" width="200"> | `wallhaven-qrmkqq.jpg` | [Wallhaven](https://wallhaven.cc/w/qrmkqq) |
+| <img src="Wallpapers/wallhaven-xedgg3.jpg" width="200"> | `wallhaven-xedgg3.jpg` | [Wallhaven](https://wallhaven.cc/w/xedgg3) |
 
 ## Usage
 
