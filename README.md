@@ -52,6 +52,16 @@ My YouTube channel: https://www.youtube.com/@laustoic
 | <img src="Wallpapers/wallhaven-d8ojdm.jpg" width="200"> | `wallhaven-d8ojdm.jpg` | [Wallhaven](https://wallhaven.cc/w/d8ojdm) |
 | <img src="Wallpapers/wallhaven-qrmkqq.jpg" width="200"> | `wallhaven-qrmkqq.jpg` | [Wallhaven](https://wallhaven.cc/w/qrmkqq) |
 | <img src="Wallpapers/wallhaven-xedgg3.jpg" width="200"> | `wallhaven-xedgg3.jpg` | [Wallhaven](https://wallhaven.cc/w/xedgg3) |
+| <img src="Wallpapers/wallhaven-3qlgq6.jpg" width="200"> | `wallhaven-3qlgq6.jpg` | [Wallhaven](https://wallhaven.cc/w/3qlgq6) |
+| <img src="Wallpapers/wallhaven-6lmojq.jpg" width="200"> | `wallhaven-6lmojq.jpg` | [Wallhaven](https://wallhaven.cc/w/6lmojq) |
+| <img src="Wallpapers/wallhaven-8gr1pj.jpg" width="200"> | `wallhaven-8gr1pj.jpg` | [Wallhaven](https://wallhaven.cc/w/8gr1pj) |
+| <img src="Wallpapers/wallhaven-9ozmyd.jpg" width="200"> | `wallhaven-9ozmyd.jpg` | [Wallhaven](https://wallhaven.cc/w/9ozmyd) |
+| <img src="Wallpapers/wallhaven-gwdm3e.jpg" width="200"> | `wallhaven-gwdm3e.jpg` | [Wallhaven](https://wallhaven.cc/w/gwdm3e) |
+| <img src="Wallpapers/wallhaven-jedy6p.jpg" width="200"> | `wallhaven-jedy6p.jpg` | [Wallhaven](https://wallhaven.cc/w/jedy6p) |
+| <img src="Wallpapers/wallhaven-jx2w75.png" width="200"> | `wallhaven-jx2w75.png` | [Wallhaven](https://wallhaven.cc/w/jx2w75) |
+| <img src="Wallpapers/wallhaven-ogj6kp.jpg" width="200"> | `wallhaven-ogj6kp.jpg` | [Wallhaven](https://wallhaven.cc/w/ogj6kp) |
+| <img src="Wallpapers/wallhaven-w5xokr.jpg" width="200"> | `wallhaven-w5xokr.jpg` | [Wallhaven](https://wallhaven.cc/w/w5xokr) |
+| <img src="Wallpapers/wallhaven-x6yxel.jpg" width="200"> | `wallhaven-x6yxel.jpg` | [Wallhaven](https://wallhaven.cc/w/x6yxel) |
 
 ## Usage
 
